@@ -12,3 +12,4 @@ for i in range(n_iterations):
 
 turtle.done()
 time.sleep(1000)
+
